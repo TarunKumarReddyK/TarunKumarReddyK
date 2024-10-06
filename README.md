@@ -7,11 +7,11 @@
  
 - 🔭 I’m currently working on **New Technologies**    
    
-- 🌱 I’m currently learning **Docker, VLSI, AWS**  
+- 🌱 I’m currently learning ** Spring **  
 
 - 👯 I’m looking to collaborate on **Full-stack development** 
 
-- 💬 Ask me about **Full Stack Development, Java, Python, JavaScript, HTML/CSS, and AWS**
+- 💬 Ask me about **Full Stack Development, Java, Python, REACT,JavaScript, HTML/CSS.
 
 - 📫 How to reach me **k.tarunkumarreddy12@gmail.com**
 
